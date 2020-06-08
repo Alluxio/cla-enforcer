@@ -14,6 +14,7 @@ gem 'rack-parser', :require => 'rack/parser'
 gem 'nokogiri'
 gem 'rake'
 gem 'pdfkit'
+gem 'wkhtmltopdf-heroku'
 
 group :development do
   gem 'dotenv'
