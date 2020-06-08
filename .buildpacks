@@ -1,2 +1,2 @@
 https://github.com/heroku/heroku-buildpack-ruby.git
-https://github.com/dscout/wkhtmltopdf-buildpack.git
+https://github.com/chap/wkhtmltopdf-heroku-18-buildpack.git
