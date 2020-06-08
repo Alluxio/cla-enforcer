@@ -18,7 +18,7 @@ module CLA
     end
 
     def delete(login)
-      ds  = @table.where(login: login).where('status != ?', 'Completed')
+      ds  = @table.where(login: login).where.not(status: 'Completed')
       row = ds.select(:envelope_id).first
       return false unless row
       return (ds.delete > 0) && row[:envelope_id]
