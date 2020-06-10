@@ -40,7 +40,7 @@ module CLA
                   locked: 'false',
                   x_position: '220',
                   y_position: '261',
-                  page_number: 2,
+                  page_number: 1,
                   required: true
                 },
                 {
@@ -48,7 +48,7 @@ module CLA
                   locked: 'false',
                   x_position: '220',
                   y_position: '278',
-                  page_number: 2,
+                  page_number: 1,
                   required: true
                 }
               ]
