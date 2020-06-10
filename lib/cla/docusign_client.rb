@@ -30,24 +30,24 @@ module CLA
               sign_here_tabs: [
                 name:            'Signature',
                 label:           'Signature',
-                x_position:      '222',
-                y_position:      '203',
+                x_position:      '622',
+                y_position:      '603',
                 page_number:     1
               ],
               text_tabs: [
                 {
                   label: 'Name',
                   locked: 'false',
-                  x_position: '220',
-                  y_position: '261',
+                  x_position: '620',
+                  y_position: '661',
                   page_number: 1,
                   required: true
                 },
                 {
                   label: 'Title',
                   locked: 'false',
-                  x_position: '220',
-                  y_position: '278',
+                  x_position: '620',
+                  y_position: '678',
                   page_number: 1,
                   required: true
                 }
