@@ -31,7 +31,7 @@ module CLA
                 name:            'Signature',
                 label:           'Signature',
                 x_position:      '222',
-                y_position:      '503',
+                y_position:      '553',
                 page_number:     1
               ],
               text_tabs: [
@@ -39,7 +39,7 @@ module CLA
                   label: 'Name',
                   locked: 'false',
                   x_position: '220',
-                  y_position: '561',
+                  y_position: '611',
                   page_number: 1,
                   required: true
                 },
@@ -47,7 +47,7 @@ module CLA
                   label: 'Title',
                   locked: 'false',
                   x_position: '220',
-                  y_position: '578',
+                  y_position: '628',
                   page_number: 1,
                   required: true
                 }
